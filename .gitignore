@@ -1,5 +1,5 @@
 /pygame_env
-/src/config.py
-/src/funciones.py
-/src/newmain.py
-/src/texto.py
+/src/__pycache__/config.py
+/src/__pycache__/funciones.py
+/src/__pycache__/newmain.py
+/src/__pycache__/texto.py
